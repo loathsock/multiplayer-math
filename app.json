@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "math-duel",
+    "slug": "math-duel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "math-duel"
+}
